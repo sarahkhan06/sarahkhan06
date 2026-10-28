@@ -1,8 +1,19 @@
 <!-- Profile README for sarahkhan06 -->
 
 <p align="center">
-   <img src="mobius.svg" alt="Rotating Möbius strip" width="100%" /></p>
-<div align="center">
+  <a href="https://thesarahkhan.vercel.app/">
+    <img src="mobius.svg" alt="Rotating Möbius strip" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://thesarahkhan.vercel.app/#mog">MOG</a> ·
+  <a href="https://thesarahkhan.vercel.app/#myri">Myri</a> ·
+  <a href="https://thesarahkhan.vercel.app/#goldman">Goldman Sachs</a> ·
+  <a href="https://thesarahkhan.vercel.app/#eleutherai">EleutherAI</a> ·
+  <a href="https://thesarahkhan.vercel.app/#geneie">GENEie</a> ·
+  <a href="https://thesarahkhan.vercel.app/#unesco">LEGO4Quantum</a>
+</p>
 
 # hi, I'm Sarah 👋
 
