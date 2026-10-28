@@ -25,7 +25,6 @@
 ### what I think about
 
 - AI for people, not people for AI
-- quantum is the future and nobody's talking about it enough
 - the best networking happens when you just show up to everything
 - building is the most creative thing a human can do
 
@@ -59,7 +58,6 @@
 
 - 🏆 built MOG at **Hack.MSA** — Texas's first ever Muslim hackathon at UT Austin
 - 📡 currently getting into hardware again
-- 📍 based in Texas · trying to get to SF
 
 ---
 
