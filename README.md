@@ -1,9 +1,7 @@
 <!-- Profile README for sarahkhan06 -->
 
 <p align="center">
-  <img src="assets/mobius.svg" alt="Rotating Möbius strip" width="100%" />
-</p>
-
+   <img src="mobius.svg" alt="Rotating Möbius strip" width="100%" /></p>
 <div align="center">
 
 # hi, I'm Sarah 👋
